@@ -1,6 +1,11 @@
 body {
-	font-family: 'Indie Flower', cursive;
-	font-size: 10rem;
-	text-align: center;
-	padding: 2rem;
+ font-family: 'Open Sans', sans-serif;
+ /*font-size: 10rem;*/
+ text-align: center;
+ padding: 2rem;
+}
+#answer {
+ border: 1px solid gray;
+ list-style-type: none;
+ font-size: 3rem;
 }
